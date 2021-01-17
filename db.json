@@ -16,13 +16,13 @@
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 20
+      "likes": 29
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 8
+      "likes": 12
     },
     {
       "id": 5,
@@ -186,8 +186,26 @@
     {
       "name": "do this",
       "image": "po",
-      "likes": 0,
+      "likes": 4,
       "id": 33
+    },
+    {
+      "name": "jacob",
+      "image": "jacoburl",
+      "likes": 5,
+      "id": 34
+    },
+    {
+      "name": "asdf",
+      "image": "asdf",
+      "likes": 0,
+      "id": 35
+    },
+    {
+      "name": "toy yort",
+      "image": "aslk;djfalksjdf;laksdj",
+      "likes": 0,
+      "id": 36
     }
   ]
 }
